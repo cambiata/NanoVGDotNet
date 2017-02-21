@@ -21,7 +21,7 @@ misrepresented as being the original software.
 
 3. This notice may not be removed or altered from any source distribution.
 
-##Port to C#
+##Port to Dot.Net
 Copyright (c) 2016 Miguel A. Guirado L. https://sites.google.com/site/bitiopia/
 
 NanoVG.net is free software: you can redistribute it and/or modify
