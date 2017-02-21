@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{65B17BE8-8094-4847-B971-BB0888565670}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GLWindow.cs">
+    <Files>
+      <File FileName="GLWindow.cs" Line="1562" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoNanoVG PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

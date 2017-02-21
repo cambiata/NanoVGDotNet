@@ -1,0 +1,6 @@
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\FontStash-Release\OpenTK.dll.config
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\FontStash-Release\FontStash.OpenTK.net.dll
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\FontStash-Release\FontStash.OpenTK.net.pdb
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\FontStash.net\obj\Release\FontStashnet.csprojResolveAssemblyReference.cache
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\FontStash.net\obj\Release\FontStash.OpenTK.net.dll
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\FontStash.net\obj\Release\FontStash.OpenTK.net.pdb

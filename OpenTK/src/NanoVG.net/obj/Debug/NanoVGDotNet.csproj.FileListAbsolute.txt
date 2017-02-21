@@ -1,0 +1,6 @@
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\NanoVG.net\obj\Debug\NanoVGDotNet.csprojResolveAssemblyReference.cache
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\NanoVG.net\obj\Debug\NanoVG.OpenTK.net.dll
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\NanoVG-Debug\OpenTK.dll.config
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\NanoVG-Debug\NanoVG.OpenTK.net.dll
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\NanoVG-Debug\NanoVG.OpenTK.net.pdb
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\NanoVG.net\obj\Debug\NanoVG.OpenTK.net.pdb

@@ -1,0 +1,10 @@
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\DemoFontStash\obj\x86\Release\DemoFontStash.csprojResolveAssemblyReference.cache
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\DemoFontStash\obj\x86\Release\DemoFontStash.exe
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\DemoFontStash-Release\OpenTK.dll.config
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\DemoFontStash-Release\DroidSansJapanese.ttf
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\DemoFontStash-Release\DroidSerif-Bold.ttf
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\DemoFontStash-Release\DroidSerif-Italic.ttf
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\DemoFontStash-Release\DroidSerif-Regular.ttf
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\DemoFontStash-Release\DemoFontStash.exe
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\bin\DemoFontStash-Release\DemoFontStash.pdb
+I:\Dropbox\_dev\_Desktop\NanoVG.net-v16.11\OpenTK\src\DemoFontStash\obj\x86\Release\DemoFontStash.pdb

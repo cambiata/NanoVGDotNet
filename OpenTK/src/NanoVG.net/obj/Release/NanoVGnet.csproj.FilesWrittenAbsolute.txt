@@ -1,0 +1,6 @@
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG.net/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/NanoVG-Release/OpenTK.dll.config
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/NanoVG-Release/NanoVG.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/NanoVG-Release/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG.net/obj/Release/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG.net/obj/Release/NanoVG.net.dll.mdb

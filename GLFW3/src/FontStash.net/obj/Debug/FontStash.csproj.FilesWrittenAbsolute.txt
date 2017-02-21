@@ -1,0 +1,9 @@
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/FontStash/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/FontStash-Debug/FontStash.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/FontStash-Debug/FontStash.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/FontStash/obj/Debug/FontStash.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/FontStash/obj/Debug/FontStash.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/FontStash-Debug/OpenTK.dll.config
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/FontStash.net/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/FontStash.net/obj/Debug/FontStash.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/FontStash.net/obj/Debug/FontStash.net.dll.mdb

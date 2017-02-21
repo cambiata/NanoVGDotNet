@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFontStash", "DemoFontStash.csproj", "{C03772AA-3166-4CEE-907A-9B2D0D20AABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontStashnet", "..\FontStash.net\FontStashnet.csproj", "{E993C0A5-926B-4A10-B40E-2D5AECD1411D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C03772AA-3166-4CEE-907A-9B2D0D20AABF}.Debug|x86.ActiveCfg = Debug|x86
+		{C03772AA-3166-4CEE-907A-9B2D0D20AABF}.Debug|x86.Build.0 = Debug|x86
+		{C03772AA-3166-4CEE-907A-9B2D0D20AABF}.Release|x86.ActiveCfg = Release|x86
+		{C03772AA-3166-4CEE-907A-9B2D0D20AABF}.Release|x86.Build.0 = Release|x86
+		{E993C0A5-926B-4A10-B40E-2D5AECD1411D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E993C0A5-926B-4A10-B40E-2D5AECD1411D}.Debug|x86.Build.0 = Debug|Any CPU
+		{E993C0A5-926B-4A10-B40E-2D5AECD1411D}.Release|x86.ActiveCfg = Release|Any CPU
+		{E993C0A5-926B-4A10-B40E-2D5AECD1411D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

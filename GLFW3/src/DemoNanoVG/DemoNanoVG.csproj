@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{65B17BE8-8094-4847-B971-BB0888565670}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Demo</RootNamespace>
+    <AssemblyName>DemoNanoVG.GLFW3</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\DemoNanoVG-Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\DemoNanoVG-Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="..\..\demo-data\DroidSansJapanese.ttf">
+      <Link>demo-data\DroidSansJapanese.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\DroidSerif-Bold.ttf">
+      <Link>demo-data\DroidSerif-Bold.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\DroidSerif-Italic.ttf">
+      <Link>demo-data\DroidSerif-Italic.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\DroidSerif-Regular.ttf">
+      <Link>demo-data\DroidSerif-Regular.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\NotoEmoji-Regular.ttf">
+      <Link>demo-data\NotoEmoji-Regular.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\Roboto-Bold.ttf">
+      <Link>demo-data\Roboto-Bold.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\Roboto-Light.ttf">
+      <Link>demo-data\Roboto-Light.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\Roboto-Regular.ttf">
+      <Link>demo-data\Roboto-Regular.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\entypo.ttf">
+      <Link>demo-data\entypo.ttf</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image1.jpg">
+      <Link>demo-data\images\image1.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image10.jpg">
+      <Link>demo-data\images\image10.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image11.jpg">
+      <Link>demo-data\images\image11.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image12.jpg">
+      <Link>demo-data\images\image12.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image2.jpg">
+      <Link>demo-data\images\image2.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image3.jpg">
+      <Link>demo-data\images\image3.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image4.jpg">
+      <Link>demo-data\images\image4.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image5.jpg">
+      <Link>demo-data\images\image5.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image6.jpg">
+      <Link>demo-data\images\image6.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image7.jpg">
+      <Link>demo-data\images\image7.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image8.jpg">
+      <Link>demo-data\images\image8.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\demo-data\images\image9.jpg">
+      <Link>demo-data\images\image9.jpg</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Pencil.Gaming-master\Pencil.Gaming\Pencil.Gaming.csproj">
+      <Project>{DDB6DB6D-E5DE-4BDB-8AC8-26DF800E9FF0}</Project>
+      <Name>Pencil.Gaming</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FontStash.net\FontStashDotNet.csproj">
+      <Project>{E993C0A5-926B-4A10-B40E-2D5AECD1411D}</Project>
+      <Name>FontStashDotNet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NanoVG.net\NanoVGDotNet.csproj">
+      <Project>{9F9EC075-682C-4D38-B27F-9DD3384C5999}</Project>
+      <Name>NanoVGDotNet</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="demo-data\" />
+    <Folder Include="demo-data\images\" />
+  </ItemGroup>
+</Project>

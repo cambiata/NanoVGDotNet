@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{C03772AA-3166-4CEE-907A-9B2D0D20AABF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GLWindow.cs">
+    <Files>
+      <File FileName="GLWindow.cs" Line="7" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoFontStash PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/DemoFontStash/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/DemoFontStash-Debug/OpenTK.dll.config
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/DemoFontStash-Debug/DroidSansJapanese.ttf
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/DemoFontStash-Debug/DroidSerif-Bold.ttf
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/DemoFontStash-Debug/DroidSerif-Italic.ttf
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/DemoFontStash-Debug/DroidSerif-Regular.ttf
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/DemoFontStash-Debug/DemoFontStash.exe.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin/DemoFontStash-Debug/DemoFontStash.exe
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/DemoFontStash/obj/x86/Debug/DemoFontStash.exe
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/DemoFontStash/obj/x86/Debug/DemoFontStash.exe.mdb

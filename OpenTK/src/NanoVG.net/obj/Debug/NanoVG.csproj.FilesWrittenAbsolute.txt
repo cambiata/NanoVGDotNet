@@ -1,0 +1,17 @@
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/Debug/NanoVG.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/Debug/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG/obj/Debug/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG/obj/Debug/NanoVG.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin-Debug/NanoVG.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/bin-Debug/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/-Debug/NanoVG.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/-Debug/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/${ProjectName}-Debug/NanoVG.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/${ProjectName}-Debug/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/NanoVG-Debug/NanoVG.net.dll.mdb
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/NanoVG-Debug/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/NanoVG-Debug/OpenTK.dll.config
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG.net/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG.net/obj/Debug/NanoVG.net.dll
+/home/miguel/Documentos/Programacion/I+D/NanoVG.net/src/NanoVG.net/obj/Debug/NanoVG.net.dll.mdb
